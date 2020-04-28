@@ -1,7 +1,11 @@
 CC = gcc
+RM = rm -f
 
-# This is a
-p1:
-	$(CC) p1.c -o p1.run
+# 查看当前系统是字节序
+1:
+	$(CC) p1.c -o p1
 
+2:
 
+clean:
+	$(RM) p1
