@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>DialogList</class>
+ <widget class="QWidget" name="DialogList">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>630</width>
+    <height>488</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <widget class="QTextBrowser" name="textBrowser">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>10</y>
+     <width>401</width>
+     <height>251</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QFrame" name="frame">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>270</y>
+     <width>401</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="frameShape">
+    <enum>QFrame::Box</enum>
+   </property>
+   <widget class="QFontComboBox" name="fontComboBox">
+    <property name="geometry">
+     <rect>
+      <x>1</x>
+      <y>11</y>
+      <width>168</width>
+      <height>22</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="QComboBox" name="comboBox">
+    <property name="geometry">
+     <rect>
+      <x>170</x>
+      <y>10</y>
+      <width>51</width>
+      <height>22</height>
+     </rect>
+    </property>
+    <item>
+     <property name="text">
+      <string>12</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>13</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>14</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>15</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>16</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>17</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>18</string>
+     </property>
+    </item>
+   </widget>
+   <widget class="QToolButton" name="toolButtonBold">
+    <property name="geometry">
+     <rect>
+      <x>220</x>
+      <y>10</y>
+      <width>28</width>
+      <height>21</height>
+     </rect>
+    </property>
+    <property name="toolTip">
+     <string>Bold</string>
+    </property>
+    <property name="text">
+     <string>B</string>
+    </property>
+    <property name="checkable">
+     <bool>true</bool>
+    </property>
+   </widget>
+   <widget class="QToolButton" name="toolButtonSlant">
+    <property name="geometry">
+     <rect>
+      <x>250</x>
+      <y>10</y>
+      <width>28</width>
+      <height>21</height>
+     </rect>
+    </property>
+    <property name="toolTip">
+     <string>slant</string>
+    </property>
+    <property name="text">
+     <string>/</string>
+    </property>
+    <property name="checkable">
+     <bool>true</bool>
+    </property>
+   </widget>
+   <widget class="QToolButton" name="toolButtonUnderline">
+    <property name="geometry">
+     <rect>
+      <x>280</x>
+      <y>10</y>
+      <width>28</width>
+      <height>21</height>
+     </rect>
+    </property>
+    <property name="toolTip">
+     <string>underline</string>
+    </property>
+    <property name="text">
+     <string>_</string>
+    </property>
+    <property name="checkable">
+     <bool>true</bool>
+    </property>
+   </widget>
+   <widget class="QToolButton" name="toolButtonChangColor">
+    <property name="geometry">
+     <rect>
+      <x>310</x>
+      <y>10</y>
+      <width>28</width>
+      <height>21</height>
+     </rect>
+    </property>
+    <property name="toolTip">
+     <string>chang color</string>
+    </property>
+    <property name="text">
+     <string>C</string>
+    </property>
+   </widget>
+   <widget class="QToolButton" name="toolButtonSave">
+    <property name="geometry">
+     <rect>
+      <x>370</x>
+      <y>10</y>
+      <width>28</width>
+      <height>21</height>
+     </rect>
+    </property>
+    <property name="toolTip">
+     <string>save</string>
+    </property>
+    <property name="text">
+     <string>S</string>
+    </property>
+   </widget>
+   <widget class="QToolButton" name="toolButtonNewClear">
+    <property name="geometry">
+     <rect>
+      <x>340</x>
+      <y>10</y>
+      <width>28</width>
+      <height>21</height>
+     </rect>
+    </property>
+    <property name="toolTip">
+     <string>clear</string>
+    </property>
+    <property name="text">
+     <string>N</string>
+    </property>
+    <property name="checkable">
+     <bool>true</bool>
+    </property>
+   </widget>
+  </widget>
+  <widget class="QWidget" name="widget_2" native="true">
+   <property name="geometry">
+    <rect>
+     <x>470</x>
+     <y>90</y>
+     <width>120</width>
+     <height>80</height>
+    </rect>
+   </property>
+   <zorder>frame</zorder>
+   <zorder>textBrowser</zorder>
+   <zorder>textEdit</zorder>
+  </widget>
+  <widget class="QTextEdit" name="textEdit">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>320</y>
+     <width>401</width>
+     <height>121</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButtonQuit">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>450</y>
+     <width>80</width>
+     <height>22</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>quit</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButtonSend">
+   <property name="geometry">
+    <rect>
+     <x>330</x>
+     <y>450</y>
+     <width>80</width>
+     <height>22</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>send</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>180</x>
+     <y>460</y>
+     <width>59</width>
+     <height>14</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>online:</string>
+   </property>
+  </widget>
+  <widget class="QTableWidget" name="tableWidget">
+   <property name="geometry">
+    <rect>
+     <x>430</x>
+     <y>10</y>
+     <width>191</width>
+     <height>461</height>
+    </rect>
+   </property>
+   <property name="selectionMode">
+    <enum>QAbstractItemView::SingleSelection</enum>
+   </property>
+   <property name="selectionBehavior">
+    <enum>QAbstractItemView::SelectRows</enum>
+   </property>
+   <column>
+    <property name="text">
+     <string>online</string>
+    </property>
+   </column>
+  </widget>
+  <zorder>textBrowser</zorder>
+  <zorder>frame</zorder>
+  <zorder>textEdit</zorder>
+  <zorder>widget_2</zorder>
+  <zorder>textEdit</zorder>
+  <zorder>pushButtonQuit</zorder>
+  <zorder>pushButtonSend</zorder>
+  <zorder>label</zorder>
+  <zorder>tableWidget</zorder>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

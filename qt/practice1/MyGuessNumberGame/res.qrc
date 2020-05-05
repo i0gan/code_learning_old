@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>win.gif</file>
+        <file>fit-in.gif</file>
+        <file>over.gif</file>
+    </qresource>
+</RCC>

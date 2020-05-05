@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DailySalesList>
+    <date date="2020-02-07">
+        <Time time="08-56-39">
+            <factory>1</factory>
+            <brand>2</brand>
+            <price>3</price>
+            <amount>4</amount>
+            <total>5</total>
+        </Time>
+        <Time time="09-13-45">
+            <factory>1</factory>
+            <brand>2</brand>
+            <price>3</price>
+            <amount>4</amount>
+            <total>5</total>
+        </Time>
+        <Time time="09-56-45">
+            <factory>1</factory>
+            <brand>2</brand>
+            <price>3</price>
+            <amount>4</amount>
+            <total>5</total>
+        </Time>
+        <Time time="10-19-37">
+            <factory>Slect factory</factory>
+            <brand/>
+            <price/>
+            <amount>1</amount>
+            <total>40</total>
+        </Time>
+        <Time time="10-20-19">
+            <factory>Slect factory</factory>
+            <brand/>
+            <price/>
+            <amount>1</amount>
+            <total>36</total>
+        </Time>
+        <Time time="10-21-53">
+            <factory>Slect factory</factory>
+            <brand/>
+            <price/>
+            <amount>1</amount>
+            <total>39</total>
+        </Time>
+        <Time time="10-22-35">
+            <factory>FAW Volkswagen</factory>
+            <brand>Audi A6</brand>
+            <price>36</price>
+            <amount>1</amount>
+            <total>35</total>
+        </Time>
+    </date>
+</DailySalesList>

@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Frame.jpg</file>
+        <file>Luffy.png</file>
+    </qresource>
+</RCC>
