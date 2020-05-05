@@ -1,0 +1,6 @@
+F:\我的C#编程\蓝欧科技\单例\单例\bin\Debug\单例.exe.config
+F:\我的C#编程\蓝欧科技\单例\单例\bin\Debug\单例.exe
+F:\我的C#编程\蓝欧科技\单例\单例\bin\Debug\单例.pdb
+F:\我的C#编程\蓝欧科技\单例\单例\obj\Debug\单例.csprojResolveAssemblyReference.cache
+F:\我的C#编程\蓝欧科技\单例\单例\obj\Debug\单例.exe
+F:\我的C#编程\蓝欧科技\单例\单例\obj\Debug\单例.pdb

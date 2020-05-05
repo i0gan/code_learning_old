@@ -1,0 +1,135 @@
+<!doctype html>
+<head>
+<title>Logan World!</title>
+</head>
+<body bgcolor="black" text="red">
+	<p align="center">Hello World </p>
+	<p>Hello World </p>
+	<p>Hello World </p>
+	Hello<br>World
+	<hr width="2" size="20" color="red" noshade>
+	<center> <!--居中标签-->
+	<p title="Are you pig?">Who are you</p> <!--占据一行的标签 -->
+	</center>
+	<pre>	<!--预标签 -->
+        Hello you guys! 
+  I'm logan,How are you today? 
+	</pre>
+	<div> <!--块级标签:把标签中的内容作为一个块来对待-->
+	<hr>
+	</div>
+	<span>	<!--于<div>功能一样,只是不换行-->
+	</span>
+<!-------------------字体标签--------------------------->
+	<h1>Hello</h1>
+	<h2>Hello</h2>
+	<h3>Hello</h3>
+	<h4>Hello</h4>
+	<font face="Calibri (Body)" size="7">Logan Jones</font>
+	<!--字体大小最大为７-->
+	<font size="7" color="#00FF00">LYXF</font>
+	<font color="new RGB(100,0,0)">Logan</font>
+	This is&nbsp;a HTML's &lt;p&gt;&amp;&copy;All reserved&trade;&quot;&#2333;
+<!--&lt;代表<,&gt;代表>,空格为&nbsp;,&为&amp;,版权:&copy;-->
+<!--商标&trade;,引号&quot;&#41为以16进制表示的字(unicode编码)-->
+	<b>You can feedbeck me</b> <strong>click here</strong>
+	<br> <i>I am logan</i><em>YES!</em><u>I can do any thing</u>
+	<s>You can't do!</s>
+	<i>You must brath O<sub>2</sub > </i>
+	<a href="">	<img src="LYXF.jpg" width="1280" height="720" alt="404 not found!" border="10"> </a>
+	<p title="Why you are here!">Click!</p>
+<!---------------------超链接----------------------------->
+<!--
+	超链接: 3种形式
+	a.外部链接:链接到一个外部文件
+	b.锚链接:指定
+	c.邮件链接
+	target:告诉浏览器使用什么方式打开目标页面
+	_self   本身选项卡
+	_blank  New 选项卡
+	_parent
+	_top
+
+	-->
+	<!--外部链接-->
+	<a href="Test_01.html">Click me into my world!</a>
+	<div>
+	<!--锚链接-->
+	<!--New 一个home-->
+	<a href="Task_01.html" target="_blank">back home</a>
+	</div>
+	<!--邮件链接-->
+	<a href="mailto:418894113@qq.com">Send me by Email</a>
+	<!--
+	 热点问题:就是对图片的局部区域加超链接
+	-->
+	<img src="Logo_01.jpg" width="300",heigh="200"
+			       usemap="#Map" border="0" />
+	<map name="Map" id="Map">
+	<area shape="circle" coords="150,100,50" href="Logo_01.jpg">
+	</map>
+	<!--
+	 清单标记:3类
+	 	a.无序清单
+		type:告诉浏览器显示内容前面的符号,disc圆点
+	square方形,circle,空心园
+	-->
+		<ul type="circle">
+		<li>1</li>
+		<li type="square">2</li>
+		<li>3</li>
+		</ul>
+	<!--
+		b.有序清单
+		type:取值:1,a,A,i(罗马),I
+		start:从哪几开始
+	-->
+		<ol type="1" start="10">
+			<li>You</li>
+			<li>Him</li>
+			<li>She</li>
+		</ol>
+	<!--
+	 	c.定义清单 define list
+		<dt>define title 清单标题
+		<dd>内容
+	-->
+		<dl>
+			<dt>First</dt>
+			<dd>You must wash your hands</dd>
+			<dt>Second</dt>
+			<dd>Don't show up yourself</dd>
+		</dl>
+	<!--
+	 	表格标签:
+		<tr>行 <td>列
+		table属性:border width height align
+		cellpadding:内容到边的距离
+		cellspacing:单元个之间的间距
+		bordercolordark:边框暗色颜色
+		bordercolorlight:边框亮色颜色
+		bgcolor:背景颜色
+		background:背景图片
+		dir:方向   dir="rtl" right to line 从右边开始
+	-->	
+	<table border="2" width="20" heigh="30" align="center"
+	cellpadding="20"　cellspacing="10"
+	bordercolordark="blue"
+	bordercolorlight="green"
+	background="Logo_01.jpg"
+
+		>
+			<tr bgcolor="">
+				<td>Name:Logan Jones</td>
+				<td>Age:18</td>
+				<td>sex:male</td>
+			</tr>
+			<tr bgcolor="blue">
+				<td>Name:Hello</td>
+				<td>Age:18</td>
+				<td>sex:female</td>
+			</tr>
+
+		</table>
+</body>
+</html>

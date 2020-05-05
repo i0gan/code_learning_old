@@ -1,0 +1,6 @@
+F:\我的C#编程\蓝欧科技\转义字符\转义字符\bin\Debug\转义字符.exe.config
+F:\我的C#编程\蓝欧科技\转义字符\转义字符\bin\Debug\转义字符.exe
+F:\我的C#编程\蓝欧科技\转义字符\转义字符\bin\Debug\转义字符.pdb
+F:\我的C#编程\蓝欧科技\转义字符\转义字符\obj\Debug\转义字符.csprojResolveAssemblyReference.cache
+F:\我的C#编程\蓝欧科技\转义字符\转义字符\obj\Debug\转义字符.exe
+F:\我的C#编程\蓝欧科技\转义字符\转义字符\obj\Debug\转义字符.pdb

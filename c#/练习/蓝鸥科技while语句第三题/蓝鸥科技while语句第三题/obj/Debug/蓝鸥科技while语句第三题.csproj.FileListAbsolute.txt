@@ -1,0 +1,6 @@
+F:\工程项目\我的C#编程\练习\蓝鸥科技while语句第三题\蓝鸥科技while语句第三题\bin\Debug\蓝鸥科技while语句第三题.exe.config
+F:\工程项目\我的C#编程\练习\蓝鸥科技while语句第三题\蓝鸥科技while语句第三题\bin\Debug\蓝鸥科技while语句第三题.exe
+F:\工程项目\我的C#编程\练习\蓝鸥科技while语句第三题\蓝鸥科技while语句第三题\bin\Debug\蓝鸥科技while语句第三题.pdb
+F:\工程项目\我的C#编程\练习\蓝鸥科技while语句第三题\蓝鸥科技while语句第三题\obj\Debug\蓝鸥科技while语句第三题.csprojResolveAssemblyReference.cache
+F:\工程项目\我的C#编程\练习\蓝鸥科技while语句第三题\蓝鸥科技while语句第三题\obj\Debug\蓝鸥科技while语句第三题.exe
+F:\工程项目\我的C#编程\练习\蓝鸥科技while语句第三题\蓝鸥科技while语句第三题\obj\Debug\蓝鸥科技while语句第三题.pdb

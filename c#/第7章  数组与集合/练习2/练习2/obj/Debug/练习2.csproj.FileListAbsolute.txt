@@ -1,0 +1,6 @@
+F:\我的C#编程\第7章  数组与集合\练习2\练习2\bin\Debug\练习2.exe.config
+F:\我的C#编程\第7章  数组与集合\练习2\练习2\bin\Debug\练习2.exe
+F:\我的C#编程\第7章  数组与集合\练习2\练习2\bin\Debug\练习2.pdb
+F:\我的C#编程\第7章  数组与集合\练习2\练习2\obj\Debug\练习2.csprojResolveAssemblyReference.cache
+F:\我的C#编程\第7章  数组与集合\练习2\练习2\obj\Debug\练习2.exe
+F:\我的C#编程\第7章  数组与集合\练习2\练习2\obj\Debug\练习2.pdb

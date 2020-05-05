@@ -1,0 +1,6 @@
+F:\我的C#编程\练习\do while作业\do while作业\bin\Debug\do while作业.exe.config
+F:\我的C#编程\练习\do while作业\do while作业\bin\Debug\do while作业.exe
+F:\我的C#编程\练习\do while作业\do while作业\bin\Debug\do while作业.pdb
+F:\我的C#编程\练习\do while作业\do while作业\obj\Debug\do while作业.csprojResolveAssemblyReference.cache
+F:\我的C#编程\练习\do while作业\do while作业\obj\Debug\do while作业.exe
+F:\我的C#编程\练习\do while作业\do while作业\obj\Debug\do while作业.pdb

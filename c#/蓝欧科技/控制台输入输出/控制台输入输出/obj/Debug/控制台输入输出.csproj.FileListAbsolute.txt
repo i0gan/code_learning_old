@@ -1,0 +1,6 @@
+F:\我的C#编程\蓝欧科技\控制台输入输出\控制台输入输出\bin\Debug\控制台输入输出.exe.config
+F:\我的C#编程\蓝欧科技\控制台输入输出\控制台输入输出\bin\Debug\控制台输入输出.exe
+F:\我的C#编程\蓝欧科技\控制台输入输出\控制台输入输出\bin\Debug\控制台输入输出.pdb
+F:\我的C#编程\蓝欧科技\控制台输入输出\控制台输入输出\obj\Debug\控制台输入输出.csprojResolveAssemblyReference.cache
+F:\我的C#编程\蓝欧科技\控制台输入输出\控制台输入输出\obj\Debug\控制台输入输出.exe
+F:\我的C#编程\蓝欧科技\控制台输入输出\控制台输入输出\obj\Debug\控制台输入输出.pdb

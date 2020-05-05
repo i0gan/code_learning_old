@@ -1,0 +1,9 @@
+F:\Project\Program\我的C#编程\Test\01\01\bin\Debug\01.exe.config
+F:\Project\Program\我的C#编程\Test\01\01\bin\Debug\01.exe
+F:\Project\Program\我的C#编程\Test\01\01\bin\Debug\01.pdb
+F:\Project\Program\我的C#编程\Test\01\01\obj\Debug\01.csprojResolveAssemblyReference.cache
+F:\Project\Program\我的C#编程\Test\01\01\obj\Debug\_01.Form1.resources
+F:\Project\Program\我的C#编程\Test\01\01\obj\Debug\_01.Properties.Resources.resources
+F:\Project\Program\我的C#编程\Test\01\01\obj\Debug\01.csproj.GenerateResource.Cache
+F:\Project\Program\我的C#编程\Test\01\01\obj\Debug\01.exe
+F:\Project\Program\我的C#编程\Test\01\01\obj\Debug\01.pdb

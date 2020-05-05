@@ -1,0 +1,6 @@
+F:\我的C#编程\练习\获取时间\获取时间\bin\Debug\获取时间.exe.config
+F:\我的C#编程\练习\获取时间\获取时间\bin\Debug\获取时间.exe
+F:\我的C#编程\练习\获取时间\获取时间\bin\Debug\获取时间.pdb
+F:\我的C#编程\练习\获取时间\获取时间\obj\Debug\获取时间.csprojResolveAssemblyReference.cache
+F:\我的C#编程\练习\获取时间\获取时间\obj\Debug\获取时间.exe
+F:\我的C#编程\练习\获取时间\获取时间\obj\Debug\获取时间.pdb

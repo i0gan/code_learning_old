@@ -1,0 +1,6 @@
+F:\我的C#编程\练习\练习4\练习4\bin\Debug\练习4.exe.config
+F:\我的C#编程\练习\练习4\练习4\bin\Debug\练习4.exe
+F:\我的C#编程\练习\练习4\练习4\bin\Debug\练习4.pdb
+F:\我的C#编程\练习\练习4\练习4\obj\Debug\练习4.csprojResolveAssemblyReference.cache
+F:\我的C#编程\练习\练习4\练习4\obj\Debug\练习4.exe
+F:\我的C#编程\练习\练习4\练习4\obj\Debug\练习4.pdb

@@ -1,0 +1,6 @@
+F:\我的C#编程\练习\for循环作业\for循环作业\bin\Debug\for循环作业.exe.config
+F:\我的C#编程\练习\for循环作业\for循环作业\bin\Debug\for循环作业.exe
+F:\我的C#编程\练习\for循环作业\for循环作业\bin\Debug\for循环作业.pdb
+F:\我的C#编程\练习\for循环作业\for循环作业\obj\Debug\for循环作业.csprojResolveAssemblyReference.cache
+F:\我的C#编程\练习\for循环作业\for循环作业\obj\Debug\for循环作业.exe
+F:\我的C#编程\练习\for循环作业\for循环作业\obj\Debug\for循环作业.pdb

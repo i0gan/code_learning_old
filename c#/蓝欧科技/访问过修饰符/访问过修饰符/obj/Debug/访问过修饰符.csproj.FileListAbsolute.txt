@@ -1,0 +1,6 @@
+F:\我的C#编程\蓝欧科技\访问过修饰符\访问过修饰符\bin\Debug\访问过修饰符.exe.config
+F:\我的C#编程\蓝欧科技\访问过修饰符\访问过修饰符\bin\Debug\访问过修饰符.exe
+F:\我的C#编程\蓝欧科技\访问过修饰符\访问过修饰符\bin\Debug\访问过修饰符.pdb
+F:\我的C#编程\蓝欧科技\访问过修饰符\访问过修饰符\obj\Debug\访问过修饰符.csprojResolveAssemblyReference.cache
+F:\我的C#编程\蓝欧科技\访问过修饰符\访问过修饰符\obj\Debug\访问过修饰符.exe
+F:\我的C#编程\蓝欧科技\访问过修饰符\访问过修饰符\obj\Debug\访问过修饰符.pdb

@@ -1,0 +1,12 @@
+F:\我的C#编程\练习\while作业\while作业\bin\Debug\while作业.exe.config
+F:\我的C#编程\练习\while作业\while作业\bin\Debug\while作业.exe
+F:\我的C#编程\练习\while作业\while作业\bin\Debug\while作业.pdb
+F:\我的C#编程\练习\while作业\while作业\obj\Debug\while作业.csprojResolveAssemblyReference.cache
+F:\我的C#编程\练习\while作业\while作业\obj\Debug\while作业.exe
+F:\我的C#编程\练习\while作业\while作业\obj\Debug\while作业.pdb
+F:\工程项目\我的C#编程\练习\while作业\while作业\bin\Debug\while作业.exe.config
+F:\工程项目\我的C#编程\练习\while作业\while作业\obj\Debug\while作业.exe
+F:\工程项目\我的C#编程\练习\while作业\while作业\obj\Debug\while作业.pdb
+F:\工程项目\我的C#编程\练习\while作业\while作业\bin\Debug\while作业.exe
+F:\工程项目\我的C#编程\练习\while作业\while作业\bin\Debug\while作业.pdb
+F:\工程项目\我的C#编程\练习\while作业\while作业\obj\Debug\while作业.csprojResolveAssemblyReference.cache

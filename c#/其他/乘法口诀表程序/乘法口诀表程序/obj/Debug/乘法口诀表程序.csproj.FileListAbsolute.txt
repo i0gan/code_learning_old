@@ -1,0 +1,9 @@
+F:\我的C#编程\乘法口诀表程序\乘法口诀表程序\bin\Debug\乘法口诀表程序.exe.config
+F:\我的C#编程\乘法口诀表程序\乘法口诀表程序\obj\Debug\乘法口诀表程序.csprojResolveAssemblyReference.cache
+F:\我的C#编程\乘法口诀表程序\乘法口诀表程序\bin\Debug\乘法口诀表程序.exe
+F:\我的C#编程\乘法口诀表程序\乘法口诀表程序\bin\Debug\乘法口诀表程序.pdb
+F:\我的C#编程\乘法口诀表程序\乘法口诀表程序\obj\Debug\乘法口诀表程序.exe
+F:\我的C#编程\乘法口诀表程序\乘法口诀表程序\obj\Debug\乘法口诀表程序.pdb
+F:\Project\我的C#编程\其他\乘法口诀表程序\乘法口诀表程序\bin\Debug\乘法口诀表程序.exe.config
+F:\Project\我的C#编程\其他\乘法口诀表程序\乘法口诀表程序\obj\Debug\乘法口诀表程序.exe
+F:\Project\我的C#编程\其他\乘法口诀表程序\乘法口诀表程序\obj\Debug\乘法口诀表程序.pdb

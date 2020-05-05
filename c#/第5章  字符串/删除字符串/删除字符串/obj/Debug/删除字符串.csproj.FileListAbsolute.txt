@@ -1,0 +1,6 @@
+F:\我的C#编程\第五章  字符串\删除字符串\删除字符串\bin\Debug\删除字符串.exe.config
+F:\我的C#编程\第五章  字符串\删除字符串\删除字符串\bin\Debug\删除字符串.exe
+F:\我的C#编程\第五章  字符串\删除字符串\删除字符串\bin\Debug\删除字符串.pdb
+F:\我的C#编程\第五章  字符串\删除字符串\删除字符串\obj\Debug\删除字符串.csprojResolveAssemblyReference.cache
+F:\我的C#编程\第五章  字符串\删除字符串\删除字符串\obj\Debug\删除字符串.exe
+F:\我的C#编程\第五章  字符串\删除字符串\删除字符串\obj\Debug\删除字符串.pdb

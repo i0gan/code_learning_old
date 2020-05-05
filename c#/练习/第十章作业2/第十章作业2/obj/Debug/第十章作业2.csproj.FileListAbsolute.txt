@@ -1,0 +1,6 @@
+F:\我的C#编程\练习\第十章作业2\第十章作业2\bin\Debug\第十章作业2.exe.config
+F:\我的C#编程\练习\第十章作业2\第十章作业2\bin\Debug\第十章作业2.exe
+F:\我的C#编程\练习\第十章作业2\第十章作业2\bin\Debug\第十章作业2.pdb
+F:\我的C#编程\练习\第十章作业2\第十章作业2\obj\Debug\第十章作业2.csprojResolveAssemblyReference.cache
+F:\我的C#编程\练习\第十章作业2\第十章作业2\obj\Debug\第十章作业2.exe
+F:\我的C#编程\练习\第十章作业2\第十章作业2\obj\Debug\第十章作业2.pdb

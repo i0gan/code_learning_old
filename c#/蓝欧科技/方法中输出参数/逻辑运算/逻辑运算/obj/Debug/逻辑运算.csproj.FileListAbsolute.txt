@@ -1,0 +1,6 @@
+F:\我的C#编程\蓝欧科技\方法中输出参数\逻辑运算\逻辑运算\bin\Debug\逻辑运算.exe.config
+F:\我的C#编程\蓝欧科技\方法中输出参数\逻辑运算\逻辑运算\bin\Debug\逻辑运算.exe
+F:\我的C#编程\蓝欧科技\方法中输出参数\逻辑运算\逻辑运算\bin\Debug\逻辑运算.pdb
+F:\我的C#编程\蓝欧科技\方法中输出参数\逻辑运算\逻辑运算\obj\Debug\逻辑运算.csprojResolveAssemblyReference.cache
+F:\我的C#编程\蓝欧科技\方法中输出参数\逻辑运算\逻辑运算\obj\Debug\逻辑运算.exe
+F:\我的C#编程\蓝欧科技\方法中输出参数\逻辑运算\逻辑运算\obj\Debug\逻辑运算.pdb

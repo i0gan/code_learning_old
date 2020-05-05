@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "switch语句", "switch语句\switch语句.csproj", "{97C7A6FE-3FDE-43F3-871D-93AD64635D94}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97C7A6FE-3FDE-43F3-871D-93AD64635D94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97C7A6FE-3FDE-43F3-871D-93AD64635D94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97C7A6FE-3FDE-43F3-871D-93AD64635D94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97C7A6FE-3FDE-43F3-871D-93AD64635D94}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

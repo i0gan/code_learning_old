@@ -1,0 +1,9 @@
+F:\工程项目\我的C#编程\第十三章\选择类控件-数值选择控件（NumericUpDown控件)\选择类控件-数值选择控件（NumericUpDown控件)\bin\Debug\选择类控件-数值选择控件（NumericUpDown控件).exe.config
+F:\工程项目\我的C#编程\第十三章\选择类控件-数值选择控件（NumericUpDown控件)\选择类控件-数值选择控件（NumericUpDown控件)\bin\Debug\选择类控件-数值选择控件（NumericUpDown控件).exe
+F:\工程项目\我的C#编程\第十三章\选择类控件-数值选择控件（NumericUpDown控件)\选择类控件-数值选择控件（NumericUpDown控件)\bin\Debug\选择类控件-数值选择控件（NumericUpDown控件).pdb
+F:\工程项目\我的C#编程\第十三章\选择类控件-数值选择控件（NumericUpDown控件)\选择类控件-数值选择控件（NumericUpDown控件)\obj\Debug\选择类控件-数值选择控件（NumericUpDown控件).csprojResolveAssemblyReference.cache
+F:\工程项目\我的C#编程\第十三章\选择类控件-数值选择控件（NumericUpDown控件)\选择类控件-数值选择控件（NumericUpDown控件)\obj\Debug\选择类控件_数值选择控件_NumericUpDown控件_.Form1.resources
+F:\工程项目\我的C#编程\第十三章\选择类控件-数值选择控件（NumericUpDown控件)\选择类控件-数值选择控件（NumericUpDown控件)\obj\Debug\选择类控件_数值选择控件_NumericUpDown控件_.Properties.Resources.resources
+F:\工程项目\我的C#编程\第十三章\选择类控件-数值选择控件（NumericUpDown控件)\选择类控件-数值选择控件（NumericUpDown控件)\obj\Debug\选择类控件-数值选择控件（NumericUpDown控件).csproj.GenerateResource.Cache
+F:\工程项目\我的C#编程\第十三章\选择类控件-数值选择控件（NumericUpDown控件)\选择类控件-数值选择控件（NumericUpDown控件)\obj\Debug\选择类控件-数值选择控件（NumericUpDown控件).exe
+F:\工程项目\我的C#编程\第十三章\选择类控件-数值选择控件（NumericUpDown控件)\选择类控件-数值选择控件（NumericUpDown控件)\obj\Debug\选择类控件-数值选择控件（NumericUpDown控件).pdb

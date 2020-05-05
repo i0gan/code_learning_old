@@ -1,0 +1,17 @@
+CC = gcc
+OBJS = add/add_int.o add/add_float.o sub/sub_int.o sub/sub_float.o main.o
+CFLAGS= -Isub -Iadd
+TARGET= cacu
+RM = rm -f
+$(TARGET):$(OBJS)
+	$(CC) -o $(TARGET) $(OBJS) 
+add_float.o:add/add_float.c add/add.h
+	$(CC) -c -o add/add_float.o add/add_float.c
+sub_int.o:sub/sub_int.c sub/sub.h
+	$(CC) -c -o sub/sub_int.o sub/sub_int.c
+sub_float.o:sub/sub_float.c sub/sub.h
+	$(CC) -c -o sub/sub_float.o sub/sub_float.c
+main.o:%o:%c add/add.h sub/sub.h
+	$(CC) -c $< -o $@ -Iadd -Isub
+clean:
+	$(RM) $(OBJS)

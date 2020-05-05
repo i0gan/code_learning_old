@@ -1,0 +1,6 @@
+F:\我的C#编程\练习\递归作业\递归作业\bin\Debug\递归作业.exe.config
+F:\我的C#编程\练习\递归作业\递归作业\bin\Debug\递归作业.exe
+F:\我的C#编程\练习\递归作业\递归作业\bin\Debug\递归作业.pdb
+F:\我的C#编程\练习\递归作业\递归作业\obj\Debug\递归作业.csprojResolveAssemblyReference.cache
+F:\我的C#编程\练习\递归作业\递归作业\obj\Debug\递归作业.exe
+F:\我的C#编程\练习\递归作业\递归作业\obj\Debug\递归作业.pdb

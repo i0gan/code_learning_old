@@ -1,0 +1,6 @@
+F:\我的C#编程\第7章  数组与集合\数组的使用\数组的使用\bin\Debug\数组的使用.exe.config
+F:\我的C#编程\第7章  数组与集合\数组的使用\数组的使用\bin\Debug\数组的使用.exe
+F:\我的C#编程\第7章  数组与集合\数组的使用\数组的使用\bin\Debug\数组的使用.pdb
+F:\我的C#编程\第7章  数组与集合\数组的使用\数组的使用\obj\Debug\数组的使用.csprojResolveAssemblyReference.cache
+F:\我的C#编程\第7章  数组与集合\数组的使用\数组的使用\obj\Debug\数组的使用.exe
+F:\我的C#编程\第7章  数组与集合\数组的使用\数组的使用\obj\Debug\数组的使用.pdb

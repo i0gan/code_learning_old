@@ -1,0 +1,6 @@
+F:\我的C#编程\蓝欧科技\委托\委托\bin\Debug\委托.exe.config
+F:\我的C#编程\蓝欧科技\委托\委托\bin\Debug\委托.exe
+F:\我的C#编程\蓝欧科技\委托\委托\bin\Debug\委托.pdb
+F:\我的C#编程\蓝欧科技\委托\委托\obj\Debug\委托.csprojResolveAssemblyReference.cache
+F:\我的C#编程\蓝欧科技\委托\委托\obj\Debug\委托.exe
+F:\我的C#编程\蓝欧科技\委托\委托\obj\Debug\委托.pdb

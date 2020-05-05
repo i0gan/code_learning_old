@@ -1,0 +1,8 @@
+F:\工程项目\我的C#编程\第十三章\选项卡控件-TabControl\选项卡控件-TabControl\bin\Debug\选项卡控件-TabControl.exe.config
+F:\工程项目\我的C#编程\第十三章\选项卡控件-TabControl\选项卡控件-TabControl\bin\Debug\选项卡控件-TabControl.exe
+F:\工程项目\我的C#编程\第十三章\选项卡控件-TabControl\选项卡控件-TabControl\bin\Debug\选项卡控件-TabControl.pdb
+F:\工程项目\我的C#编程\第十三章\选项卡控件-TabControl\选项卡控件-TabControl\obj\Debug\选项卡控件_TabControl.Form1.resources
+F:\工程项目\我的C#编程\第十三章\选项卡控件-TabControl\选项卡控件-TabControl\obj\Debug\选项卡控件_TabControl.Properties.Resources.resources
+F:\工程项目\我的C#编程\第十三章\选项卡控件-TabControl\选项卡控件-TabControl\obj\Debug\选项卡控件-TabControl.csproj.GenerateResource.Cache
+F:\工程项目\我的C#编程\第十三章\选项卡控件-TabControl\选项卡控件-TabControl\obj\Debug\选项卡控件-TabControl.exe
+F:\工程项目\我的C#编程\第十三章\选项卡控件-TabControl\选项卡控件-TabControl\obj\Debug\选项卡控件-TabControl.pdb

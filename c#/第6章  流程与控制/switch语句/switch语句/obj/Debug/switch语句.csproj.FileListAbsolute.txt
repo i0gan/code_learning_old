@@ -1,0 +1,6 @@
+F:\我的C#编程\第6章  流程与控制\switch语句\switch语句\bin\Debug\switch语句.exe.config
+F:\我的C#编程\第6章  流程与控制\switch语句\switch语句\bin\Debug\switch语句.exe
+F:\我的C#编程\第6章  流程与控制\switch语句\switch语句\bin\Debug\switch语句.pdb
+F:\我的C#编程\第6章  流程与控制\switch语句\switch语句\obj\Debug\switch语句.csprojResolveAssemblyReference.cache
+F:\我的C#编程\第6章  流程与控制\switch语句\switch语句\obj\Debug\switch语句.exe
+F:\我的C#编程\第6章  流程与控制\switch语句\switch语句\obj\Debug\switch语句.pdb

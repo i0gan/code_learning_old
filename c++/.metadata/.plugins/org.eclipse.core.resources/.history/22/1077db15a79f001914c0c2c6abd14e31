@@ -1,0 +1,40 @@
+import java.util.Scanner;						//定义Scanner对象所使用的文件
+
+public class MyIo {								//定义一个公共类
+	public static void main(String[] args) {	//定义一个公共静态无返回值的main方法
+//		System.out.print("111");				//不换行打印111
+
+//		Scanner in=new Scanner(System.in);     //创建一个对象
+//		System.out.print("好啊!"+in.nextLine());		//以文本形式输出对象
+//		System.out.println(2+3+"2+3="+(2+3));		//括号前面的2+3可直接运算，字符串后面的不行
+//		int a=in.nextInt();							//通过定义的对象再重新输入并赋值
+//		System.out.println("2"+"+"+a+"="+(2+a));	//输出
+
+//		final int b = 0;	//使用final定义一个常量
+
+		//英尺和米的换算
+//		Scanner input=new Scanner(System.in);
+//		final float inch_number=0.3048f;
+//		System.out.println("请输入英尺:");
+//		float inch=input.nextFloat();
+//		System.out.println("请输入英寸:");
+//		float incun=input.nextFloat();
+//		System.out.println("inch:"+inch+"incun"+incun);
+//		float meter=(inch+incun/12.0f)*inch_number;
+//		System.out.println("你所输入的值相加为:"+meter);
+		
+		//新奇的计算:
+//		float a=1.2f;
+//		float b=1.1f;
+//		double c=1.2f;
+//		double d=1.1f;
+//		System.out.println("float计算:"+"1.2-1.1="+(a-b));
+//		System.out.println("double计算:"+"1.2-1.1="+(c-d));
+
+		float num1=0.1f+0.1f+0.1f+0.1f+0.1f+0.1f+0.1f+0.1f+0.1f+0.1f;
+		System.out.println(num1);
+		System.out.println(Math.abs(num1-1)<1e-6); //Maht.abs表示求绝对值,1e-6表示1*10^-6
+	
+	}
+
+}

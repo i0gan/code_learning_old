@@ -1,0 +1,6 @@
+F:\我的C#编程\第6章  流程与控制\判断奇偶数\判断奇偶数\bin\Debug\判断奇偶数.exe.config
+F:\我的C#编程\第6章  流程与控制\判断奇偶数\判断奇偶数\bin\Debug\判断奇偶数.exe
+F:\我的C#编程\第6章  流程与控制\判断奇偶数\判断奇偶数\bin\Debug\判断奇偶数.pdb
+F:\我的C#编程\第6章  流程与控制\判断奇偶数\判断奇偶数\obj\Debug\判断奇偶数.csprojResolveAssemblyReference.cache
+F:\我的C#编程\第6章  流程与控制\判断奇偶数\判断奇偶数\obj\Debug\判断奇偶数.exe
+F:\我的C#编程\第6章  流程与控制\判断奇偶数\判断奇偶数\obj\Debug\判断奇偶数.pdb

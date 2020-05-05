@@ -1,0 +1,8 @@
+F:\工程项目\我的C#编程\第十三章\有格式文本1\有格式文本1\bin\Debug\有格式文本1.exe.config
+F:\工程项目\我的C#编程\第十三章\有格式文本1\有格式文本1\bin\Debug\有格式文本1.exe
+F:\工程项目\我的C#编程\第十三章\有格式文本1\有格式文本1\bin\Debug\有格式文本1.pdb
+F:\工程项目\我的C#编程\第十三章\有格式文本1\有格式文本1\obj\Debug\有格式文本1.Form1.resources
+F:\工程项目\我的C#编程\第十三章\有格式文本1\有格式文本1\obj\Debug\有格式文本1.Properties.Resources.resources
+F:\工程项目\我的C#编程\第十三章\有格式文本1\有格式文本1\obj\Debug\有格式文本1.csproj.GenerateResource.Cache
+F:\工程项目\我的C#编程\第十三章\有格式文本1\有格式文本1\obj\Debug\有格式文本1.exe
+F:\工程项目\我的C#编程\第十三章\有格式文本1\有格式文本1\obj\Debug\有格式文本1.pdb

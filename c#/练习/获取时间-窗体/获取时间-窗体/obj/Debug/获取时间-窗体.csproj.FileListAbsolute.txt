@@ -1,0 +1,9 @@
+F:\我的C#编程\练习\获取时间-窗体\获取时间-窗体\bin\Debug\获取时间-窗体.exe.config
+F:\我的C#编程\练习\获取时间-窗体\获取时间-窗体\bin\Debug\获取时间-窗体.exe
+F:\我的C#编程\练习\获取时间-窗体\获取时间-窗体\bin\Debug\获取时间-窗体.pdb
+F:\我的C#编程\练习\获取时间-窗体\获取时间-窗体\obj\Debug\获取时间-窗体.csprojResolveAssemblyReference.cache
+F:\我的C#编程\练习\获取时间-窗体\获取时间-窗体\obj\Debug\获取时间_窗体.Form1.resources
+F:\我的C#编程\练习\获取时间-窗体\获取时间-窗体\obj\Debug\获取时间_窗体.Properties.Resources.resources
+F:\我的C#编程\练习\获取时间-窗体\获取时间-窗体\obj\Debug\获取时间-窗体.csproj.GenerateResource.Cache
+F:\我的C#编程\练习\获取时间-窗体\获取时间-窗体\obj\Debug\获取时间-窗体.exe
+F:\我的C#编程\练习\获取时间-窗体\获取时间-窗体\obj\Debug\获取时间-窗体.pdb

@@ -1,0 +1,6 @@
+F:\我的C#编程\蓝欧科技\类和对象\类和对象\bin\Debug\类和对象.exe.config
+F:\我的C#编程\蓝欧科技\类和对象\类和对象\bin\Debug\类和对象.exe
+F:\我的C#编程\蓝欧科技\类和对象\类和对象\bin\Debug\类和对象.pdb
+F:\我的C#编程\蓝欧科技\类和对象\类和对象\obj\Debug\类和对象.csprojResolveAssemblyReference.cache
+F:\我的C#编程\蓝欧科技\类和对象\类和对象\obj\Debug\类和对象.exe
+F:\我的C#编程\蓝欧科技\类和对象\类和对象\obj\Debug\类和对象.pdb

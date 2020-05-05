@@ -1,0 +1,6 @@
+F:\我的C#编程\练习\方法\方法\bin\Debug\方法.exe.config
+F:\我的C#编程\练习\方法\方法\obj\Debug\方法.csprojResolveAssemblyReference.cache
+F:\我的C#编程\练习\方法\方法\bin\Debug\方法.exe
+F:\我的C#编程\练习\方法\方法\bin\Debug\方法.pdb
+F:\我的C#编程\练习\方法\方法\obj\Debug\方法.exe
+F:\我的C#编程\练习\方法\方法\obj\Debug\方法.pdb

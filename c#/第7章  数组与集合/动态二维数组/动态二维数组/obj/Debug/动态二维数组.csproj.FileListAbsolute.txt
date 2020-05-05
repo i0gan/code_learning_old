@@ -1,0 +1,6 @@
+F:\我的C#编程\第7章  数组与集合\动态二维数组\动态二维数组\bin\Debug\动态二维数组.exe.config
+F:\我的C#编程\第7章  数组与集合\动态二维数组\动态二维数组\bin\Debug\动态二维数组.exe
+F:\我的C#编程\第7章  数组与集合\动态二维数组\动态二维数组\bin\Debug\动态二维数组.pdb
+F:\我的C#编程\第7章  数组与集合\动态二维数组\动态二维数组\obj\Debug\动态二维数组.csprojResolveAssemblyReference.cache
+F:\我的C#编程\第7章  数组与集合\动态二维数组\动态二维数组\obj\Debug\动态二维数组.exe
+F:\我的C#编程\第7章  数组与集合\动态二维数组\动态二维数组\obj\Debug\动态二维数组.pdb

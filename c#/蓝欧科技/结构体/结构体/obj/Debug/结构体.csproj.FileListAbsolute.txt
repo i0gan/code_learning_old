@@ -1,0 +1,9 @@
+F:\我的C#编程\第6章  流程与控制\蓝欧科技\结构体\结构体\bin\Debug\结构体.exe.config
+F:\我的C#编程\第6章  流程与控制\蓝欧科技\结构体\结构体\bin\Debug\结构体.exe
+F:\我的C#编程\第6章  流程与控制\蓝欧科技\结构体\结构体\bin\Debug\结构体.pdb
+F:\我的C#编程\第6章  流程与控制\蓝欧科技\结构体\结构体\obj\Debug\结构体.csprojResolveAssemblyReference.cache
+F:\我的C#编程\第6章  流程与控制\蓝欧科技\结构体\结构体\obj\Debug\结构体.exe
+F:\我的C#编程\第6章  流程与控制\蓝欧科技\结构体\结构体\obj\Debug\结构体.pdb
+F:\我的C#编程\蓝欧科技\结构体\结构体\bin\Debug\结构体.exe.config
+F:\我的C#编程\蓝欧科技\结构体\结构体\obj\Debug\结构体.exe
+F:\我的C#编程\蓝欧科技\结构体\结构体\obj\Debug\结构体.pdb

@@ -1,0 +1,6 @@
+F:\我的C#编程\蓝欧科技\枚举\枚举\bin\Debug\枚举.exe.config
+F:\我的C#编程\蓝欧科技\枚举\枚举\bin\Debug\枚举.exe
+F:\我的C#编程\蓝欧科技\枚举\枚举\bin\Debug\枚举.pdb
+F:\我的C#编程\蓝欧科技\枚举\枚举\obj\Debug\枚举.csprojResolveAssemblyReference.cache
+F:\我的C#编程\蓝欧科技\枚举\枚举\obj\Debug\枚举.exe
+F:\我的C#编程\蓝欧科技\枚举\枚举\obj\Debug\枚举.pdb

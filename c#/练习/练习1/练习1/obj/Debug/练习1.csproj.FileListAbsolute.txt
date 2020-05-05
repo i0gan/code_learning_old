@@ -1,0 +1,5 @@
+F:\我的C#编程\练习\练习1\练习1\bin\Debug\练习1.exe.config
+F:\我的C#编程\练习\练习1\练习1\bin\Debug\练习1.exe
+F:\我的C#编程\练习\练习1\练习1\bin\Debug\练习1.pdb
+F:\我的C#编程\练习\练习1\练习1\obj\Debug\练习1.exe
+F:\我的C#编程\练习\练习1\练习1\obj\Debug\练习1.pdb

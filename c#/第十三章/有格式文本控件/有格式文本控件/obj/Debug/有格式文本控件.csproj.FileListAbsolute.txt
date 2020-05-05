@@ -1,0 +1,9 @@
+F:\工程项目\我的C#编程\第十三章\有格式文本控件\有格式文本控件\bin\Debug\有格式文本控件.exe.config
+F:\工程项目\我的C#编程\第十三章\有格式文本控件\有格式文本控件\bin\Debug\有格式文本控件.exe
+F:\工程项目\我的C#编程\第十三章\有格式文本控件\有格式文本控件\bin\Debug\有格式文本控件.pdb
+F:\工程项目\我的C#编程\第十三章\有格式文本控件\有格式文本控件\obj\Debug\有格式文本控件.csprojResolveAssemblyReference.cache
+F:\工程项目\我的C#编程\第十三章\有格式文本控件\有格式文本控件\obj\Debug\有格式文本控件.Form1.resources
+F:\工程项目\我的C#编程\第十三章\有格式文本控件\有格式文本控件\obj\Debug\有格式文本控件.Properties.Resources.resources
+F:\工程项目\我的C#编程\第十三章\有格式文本控件\有格式文本控件\obj\Debug\有格式文本控件.csproj.GenerateResource.Cache
+F:\工程项目\我的C#编程\第十三章\有格式文本控件\有格式文本控件\obj\Debug\有格式文本控件.exe
+F:\工程项目\我的C#编程\第十三章\有格式文本控件\有格式文本控件\obj\Debug\有格式文本控件.pdb

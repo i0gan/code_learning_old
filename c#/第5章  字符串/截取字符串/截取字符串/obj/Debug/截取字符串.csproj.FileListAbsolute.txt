@@ -1,0 +1,6 @@
+F:\我的C#编程\截取字符串\截取字符串\bin\Debug\截取字符串.exe.config
+F:\我的C#编程\截取字符串\截取字符串\bin\Debug\截取字符串.exe
+F:\我的C#编程\截取字符串\截取字符串\bin\Debug\截取字符串.pdb
+F:\我的C#编程\截取字符串\截取字符串\obj\Debug\截取字符串.csprojResolveAssemblyReference.cache
+F:\我的C#编程\截取字符串\截取字符串\obj\Debug\截取字符串.exe
+F:\我的C#编程\截取字符串\截取字符串\obj\Debug\截取字符串.pdb

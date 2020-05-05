@@ -1,0 +1,9 @@
+F:\工程项目\我的C#编程\第十二章\继承窗体\继承窗体\bin\Debug\继承窗体.exe.config
+F:\工程项目\我的C#编程\第十二章\继承窗体\继承窗体\bin\Debug\继承窗体.exe
+F:\工程项目\我的C#编程\第十二章\继承窗体\继承窗体\bin\Debug\继承窗体.pdb
+F:\工程项目\我的C#编程\第十二章\继承窗体\继承窗体\obj\Debug\继承窗体.csprojResolveAssemblyReference.cache
+F:\工程项目\我的C#编程\第十二章\继承窗体\继承窗体\obj\Debug\继承窗体.Form1.resources
+F:\工程项目\我的C#编程\第十二章\继承窗体\继承窗体\obj\Debug\继承窗体.Properties.Resources.resources
+F:\工程项目\我的C#编程\第十二章\继承窗体\继承窗体\obj\Debug\继承窗体.csproj.GenerateResource.Cache
+F:\工程项目\我的C#编程\第十二章\继承窗体\继承窗体\obj\Debug\继承窗体.exe
+F:\工程项目\我的C#编程\第十二章\继承窗体\继承窗体\obj\Debug\继承窗体.pdb

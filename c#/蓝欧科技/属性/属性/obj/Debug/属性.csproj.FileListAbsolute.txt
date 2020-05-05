@@ -1,0 +1,6 @@
+F:\我的C#编程\蓝欧科技\属性\属性\bin\Debug\属性.exe.config
+F:\我的C#编程\蓝欧科技\属性\属性\bin\Debug\属性.exe
+F:\我的C#编程\蓝欧科技\属性\属性\bin\Debug\属性.pdb
+F:\我的C#编程\蓝欧科技\属性\属性\obj\Debug\属性.csprojResolveAssemblyReference.cache
+F:\我的C#编程\蓝欧科技\属性\属性\obj\Debug\属性.exe
+F:\我的C#编程\蓝欧科技\属性\属性\obj\Debug\属性.pdb

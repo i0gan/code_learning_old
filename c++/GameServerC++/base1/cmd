@@ -1,0 +1,79 @@
+	grep
+grep apple test
+grep -c apple test.txt //输出包含apple的行数
+grep -n apple test.txt //输出包含apple的行,并显示行数
+grep -v apple test.txt //输出排除apple的行
+
+在文件传输时scp , 不用输入密码操作:
+ssh-keygen -t rsa //生成密匙 (操作机)
+得到密匙 id_dsa.pub
+将密匙 id_dsa.pub发送给对方
+cat id_dsa.pub >> ~/.ssh/authorized_keys (被操作机)
+
+
+
+	vim 
+vimtutor --- vim 的帮助命令
+split 上下分屏
+vsplit  或 vs 左右分屏
+q 退出分屏
+ctrl ww 切换分屏
+
+
+J 把下一行合并为同一行
+/ + text 向下查找
+? + text 向上查找
+:x  保存退出
+ZZ  保存退出
+n + G 跳转到n行
+W  到下一个单词的开头
+e  到下一个单词的结尾
+% 找对应的另一个括号
+* 和 # 匹配光标所在当前行的单词,然后进行搜索
+f + h 使光标调到你输入的字符处h, h也可以为';', 这样就可以调到末尾了
+t + h 使光标调到你输入的字符处h的前一个位置
+F 与 T 与上面是相反方向
+常用组合:
+例如: 删除 "ABCD <int>" 字符 "ABCD <"
+输入 df<
+
+
+v  visual模式:
+d 进行删除
+y 复制
+p 粘粘
+选中:
+a"  选中 a + "之中的内容,包含" , '"' 可以替换为( [ {
+vi" 选中 a + "之中的的内容,不包含"
+
+-----------
+//c++ 连环注释
+ctrl + v   visual block模式
+g 进行选着行
+I 进入插入模式
+在所注释行前输入 //
+然后 ESC
+
+//取消连环注释:
+ctrl + v   visual block模式
+l 从左到右选择
+g 从上到下选择
+d 删除
+-----------
+
+代码自动补全:
+ctrl + p
+ctrl + n
+
+
+对齐缩进:
+//对齐上一行
+------
+v 进入viasual mode
+g 选着行
+= 对齐
+------
+//全部自动缩进
+gg=G
+
+

@@ -1,0 +1,6 @@
+F:\我的C#编程\第7章  数组与集合\二位数组\二位数组\bin\Debug\二位数组.exe.config
+F:\我的C#编程\第7章  数组与集合\二位数组\二位数组\bin\Debug\二位数组.exe
+F:\我的C#编程\第7章  数组与集合\二位数组\二位数组\bin\Debug\二位数组.pdb
+F:\我的C#编程\第7章  数组与集合\二位数组\二位数组\obj\Debug\二位数组.csprojResolveAssemblyReference.cache
+F:\我的C#编程\第7章  数组与集合\二位数组\二位数组\obj\Debug\二位数组.exe
+F:\我的C#编程\第7章  数组与集合\二位数组\二位数组\obj\Debug\二位数组.pdb

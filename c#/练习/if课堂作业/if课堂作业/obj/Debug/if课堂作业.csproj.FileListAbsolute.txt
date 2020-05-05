@@ -1,0 +1,6 @@
+F:\我的C#编程\练习\if课堂作业\if课堂作业\bin\Debug\if课堂作业.exe.config
+F:\我的C#编程\练习\if课堂作业\if课堂作业\bin\Debug\if课堂作业.exe
+F:\我的C#编程\练习\if课堂作业\if课堂作业\bin\Debug\if课堂作业.pdb
+F:\我的C#编程\练习\if课堂作业\if课堂作业\obj\Debug\if课堂作业.csprojResolveAssemblyReference.cache
+F:\我的C#编程\练习\if课堂作业\if课堂作业\obj\Debug\if课堂作业.exe
+F:\我的C#编程\练习\if课堂作业\if课堂作业\obj\Debug\if课堂作业.pdb

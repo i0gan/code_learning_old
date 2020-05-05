@@ -1,0 +1,17 @@
+
+
+int main(void) {
+}
+int main(void) {
+	exit(0);
+}
+int main(void) {
+	return 0;
+}
+int main(void) {
+	return EXIT_SUCCESS;
+}
+
+在c++ 中三者一样, 因为c++ 中有抛出异常机制
+
+

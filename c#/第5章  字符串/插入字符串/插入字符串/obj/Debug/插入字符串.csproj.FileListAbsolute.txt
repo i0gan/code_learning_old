@@ -1,0 +1,6 @@
+F:\我的C#编程\插入字符串\插入字符串\bin\Debug\插入字符串.exe.config
+F:\我的C#编程\插入字符串\插入字符串\bin\Debug\插入字符串.exe
+F:\我的C#编程\插入字符串\插入字符串\bin\Debug\插入字符串.pdb
+F:\我的C#编程\插入字符串\插入字符串\obj\Debug\插入字符串.csprojResolveAssemblyReference.cache
+F:\我的C#编程\插入字符串\插入字符串\obj\Debug\插入字符串.exe
+F:\我的C#编程\插入字符串\插入字符串\obj\Debug\插入字符串.pdb

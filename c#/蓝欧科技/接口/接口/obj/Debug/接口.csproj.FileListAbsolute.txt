@@ -1,0 +1,6 @@
+F:\我的C#编程\蓝欧科技\接口\接口\bin\Debug\接口.exe.config
+F:\我的C#编程\蓝欧科技\接口\接口\obj\Debug\接口.csprojResolveAssemblyReference.cache
+F:\我的C#编程\蓝欧科技\接口\接口\bin\Debug\接口.exe
+F:\我的C#编程\蓝欧科技\接口\接口\bin\Debug\接口.pdb
+F:\我的C#编程\蓝欧科技\接口\接口\obj\Debug\接口.exe
+F:\我的C#编程\蓝欧科技\接口\接口\obj\Debug\接口.pdb

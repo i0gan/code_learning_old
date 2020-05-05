@@ -1,0 +1,6 @@
+F:\我的C#编程\蓝欧科技\一维数组\一维数组\bin\Debug\一维数组.exe.config
+F:\我的C#编程\蓝欧科技\一维数组\一维数组\bin\Debug\一维数组.exe
+F:\我的C#编程\蓝欧科技\一维数组\一维数组\bin\Debug\一维数组.pdb
+F:\我的C#编程\蓝欧科技\一维数组\一维数组\obj\Debug\一维数组.csprojResolveAssemblyReference.cache
+F:\我的C#编程\蓝欧科技\一维数组\一维数组\obj\Debug\一维数组.exe
+F:\我的C#编程\蓝欧科技\一维数组\一维数组\obj\Debug\一维数组.pdb
