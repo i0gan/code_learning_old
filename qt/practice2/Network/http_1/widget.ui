@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Widget</class>
+ <widget class="QWidget" name="Widget">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>800</width>
+    <height>600</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Widget</string>
+  </property>
+  <widget class="QLineEdit" name="lineEdit">
+   <property name="geometry">
+    <rect>
+     <x>30</x>
+     <y>80</y>
+     <width>581</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>http://39.97.119.22/</string>
+   </property>
+  </widget>
+  <widget class="QTextBrowser" name="textBrowser">
+   <property name="geometry">
+    <rect>
+     <x>30</x>
+     <y>130</y>
+     <width>741</width>
+     <height>451</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButtonSearch">
+   <property name="geometry">
+    <rect>
+     <x>640</x>
+     <y>80</y>
+     <width>121</width>
+     <height>39</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>搜索</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
