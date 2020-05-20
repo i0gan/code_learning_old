@@ -2,17 +2,10 @@
 
 ## Content
 
-C & C++
-
-Linux Progaming
-
-Shell
-
-Windows C#
-
-HTML
-
-Java
-
-Asm
+* C & C++
+* Java
+* Linux Progaming
+* C#
+* HTML
+* Asm
 
