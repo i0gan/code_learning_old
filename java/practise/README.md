@@ -9,7 +9,10 @@
 * [p5]() 包的简单使用
 * [p6]() 类的继承
 * [p7]() overwrite重写
-* p8 重写toString
-* p9 重写equals
-* 
+* [p8]() 重写toString
+* [p9]() 重写equals
+* [p10]() 访问权限
+* p11 super关键字
+* p12 多态
+* p13 多态相关的类型转换 && final
 
