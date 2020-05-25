@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+    <Button
+        android:id="@+id/button_test"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="按钮测试"/>
+
+
+    <RadioButton
+        android:id="@+id/radio_button_1"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="男女"
+        android:textSize="20sp"
+        android:textColor="#FF0000"
+        />
+
+    <RadioGroup
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:orientation="vertical">
+
+        <RadioButton
+            android:id="@+id/radio_button_2"
+            android:text="男"
+            android:checked="true"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"/>
+        <RadioButton
+            android:id="@+id/radio_button_3"
+            android:text="女"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"/>
+
+    </RadioGroup>
+
+    <RadioGroup
+        android:id="@+id/radio_group_1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal">
+        <RadioButton
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:id="@+id/radio_button_4"
+            android:text="A"
+            android:textSize="25sp"
+            android:checked="true"
+            android:layout_marginLeft="10dp"
+            android:button="@null"
+            android:gravity="center"
+            android:background="@drawable/radio_button_selector"
+            />
+        <RadioButton
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:id="@+id/radio_button_5"
+            android:text="B"
+            android:textSize="25sp"
+            android:checked="true"
+            android:layout_marginLeft="10dp"
+            android:background="@drawable/radio_button_selector"
+            android:button="@null"
+            android:gravity="center"
+            />
+    </RadioGroup>
+
+
+</LinearLayout>
