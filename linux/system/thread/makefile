@@ -21,6 +21,18 @@ RM = rm -f
 4:
 	$(CC) p4.c -lpthread -o p4
 
+# 验证线程的退出方式: 
+5:
+	$(CC) p5.c -lpthread -o p5
+
+# 验证线程的退出方式: 
+6:
+	$(CC) p6.c -lpthread -o p6
+
+# 信号量
+7:
+	$(CC) p7.c -lpthread -o p7
+
 clean:
-	$(RM) p1 p2 p3 p4
+	$(RM) p1 p2 p3 p4 p5 p6 p7
 	
