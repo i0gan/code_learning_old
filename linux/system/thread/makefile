@@ -33,6 +33,10 @@ RM = rm -f
 7:
 	$(CC) p7.c -lpthread -o p7
 
+# 信号量, 严格实现同步
+8:
+	$(CC) p8.c -lpthread -o p8
+
 clean:
-	$(RM) p1 p2 p3 p4 p5 p6 p7
+	$(RM) p1 p2 p3 p4 p5 p6 p7 p8
 	
