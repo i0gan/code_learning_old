@@ -16,6 +16,10 @@ RM = rm -f
 3:
 	$(CC) p3.cc -o p3
 
+# Json 库array的赋值与捕获类型错误和越界错误异常
+4:
+	$(CC) p4.cc -o p4
+
 clean:
-	$(RM) p1 p2 p3
+	$(RM) p1 p2 p3 p4
 	
