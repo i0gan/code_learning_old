@@ -20,6 +20,9 @@ RM = rm -f
 4:
 	$(CC) p4.cc -o p4
 
+# Json 库 pointer 的使用方式, 捕获各种常见异常
+5:
+	$(CC) p5.cc -o p5
 clean:
-	$(RM) p1 p2 p3 p4
+	$(RM) p1 p2 p3 p4 p5
 	
