@@ -9,4 +9,5 @@
 * [p5]()  EditText
 * [p6]() RadioButton
 * [p7]() CheckBox
-
+* [p8]() ImageView
+* 
