@@ -1,0 +1,30 @@
+<!DOCTYPE HTML>
+
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>test ajax http state</title>
+    </head>
+    <body>
+        <button id = "btn">发送Ajax请求</button>
+        
+        <script type = "text/javascript">
+            var btn = document.getElementById("btn");
+            var xhr = new XMLHttpRequest();
+            btn.onclick = function() {
+                xhr.open('get', "http://192.168.100.4/erro");
+                xhr.send();
+            }
+            xhr.onload = function() {
+                // xhr.status 获取http状态码
+                alert("http state code:" + xhr.status);
+                alert("content :" + xhr.responseText);
+            }
+            
+            // 当网络中断时会触发error事件
+            xhr.onerror = function() {
+                alert('网络已经中断');
+            }
+        </script>
+    </body>
+</html>

@@ -1,0 +1,23 @@
+<html>
+    <body>
+        <script type = "text/javascript">
+            // 创建ajax 对象
+            var xhr = new XMLHttpRequest();
+            // 告诉ajax对象向哪发送请求和以什么方式进行发送
+            xhr.open('get', 'http://192.168.100.4/')
+            // 发送请求
+            xhr.send();
+            // 获取服务端响应到客户端的数据
+            xhr.onload = function() {
+                var responseText = xhr.responseText;
+                //json = JSON.parse(responseText);
+                
+                var str = '<h2>' + responseText + '</h2>';
+                // 输出到浏览器console中
+                console.log(responseText);
+                // 追加到页面上
+                document.body.innerHTML = responseText;
+            }
+        </script>
+    </body>
+</html>

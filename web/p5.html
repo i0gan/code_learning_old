@@ -1,0 +1,69 @@
+<!DOCTYPE HTML>
+
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>test ajax state</title>
+    </head>
+    <body>
+        <p>
+            <input type="text" id="account">
+        </p>
+        
+        <p>
+            <input type="text" id="password">
+        </p>
+        
+        <p>
+            <input type="button" value="提交" id="button">
+        </p>
+        
+        <script type = "text/javascript">
+            /* 采用ajax 的状态码改变实现接收数据的调用*/
+        
+        
+            // 获取姓文本框元素
+            var account = document.getElementById('account');
+            var password = document.getElementById('password');
+            console.log('aaa');
+            // 获取按钮元素
+            var btn = document.getElementById('button');
+            // 为按钮添加点击事件
+            btn.onclick = function() {
+                // 获取用户输入的值
+                var account_value = account.value;
+                var password_value = password.value;
+                //alert(account_value);
+                //alert(password_value);
+                
+                var params = 'account=' + account_value + '&password=' + password_value;
+                // 创建ajax对象
+                var xhr = new XMLHttpRequest();
+                // readyState = 0 : 已经创建对象
+                // 设置内容类型
+                
+                // 配置ajax对象
+                xhr.open('post', 'http://192.168.100.4');
+                // readyState = 1 : 已经进行配置, 但未发送
+                
+                xhr.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
+                // ajax状态码发生变化的时候调用， 注意, 需要在send函数前写好事件
+                xhr.onreadystatechange = function() {
+                    // 2 已经发送请求
+                    // 3 开始接受到服务端的数据
+                    // 4 接收完成
+                    if(xhr.readyState == 4) {
+                        alert(xhr.responseText);
+                        console.log(xhr.responseText);
+                    }
+                }
+                // JSON.stringify() 将json对象转换为json字符串
+                var json_str = JSON.stringify({ account:'aa', password: 'bb'});
+                // 发送请求
+                //alert(params);
+                xhr.send(json_str);
+                // readyState = 2 : 已经发送
+            }
+        </script>
+    </body>
+</html>

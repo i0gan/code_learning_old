@@ -1,0 +1,56 @@
+<!DOCTYPE HTML>
+
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>test get</title>
+    </head>
+    
+    <body>
+        <p>
+            <input type="text" id="account">
+        </p>
+        
+        <p>
+            <input type="text" id="password">
+        </p>
+        
+        <p>
+            <input type="button" value="提交" id="button">
+        </p>
+        
+        <script type = "text/javascript">
+            // 获取姓文本框元素
+            var account = document.getElementById('account');
+            var password = document.getElementById('password');
+            
+            console.log('aaa');
+            // 获取按钮元素
+            var btn = document.getElementById('button');
+            // 为按钮添加点击事件
+            btn.onclick = function() {
+                // 获取用户输入的值
+                var account_value = account.value;
+                var password_value = password.value;
+                //alert(account_value);
+                //alert(password_value);
+                
+                
+                var params = 'account=' + account_value + '&password=' + password_value;
+                // 创建ajax对象
+                var xhr = new XMLHttpRequest();
+                // 配置ajax对象
+                xhr.open('get', 'http://192.168.100.4/?' + params);
+                // 发送请求
+                xhr.send();
+                
+                // 监听事件
+                xhr.onload = function() {
+                    console.log(xhr.responseText);
+                }
+                
+                
+            }
+        </script>
+    </body>
+</html>
