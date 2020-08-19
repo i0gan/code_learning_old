@@ -11,7 +11,6 @@ public:
 protected:
 %>;
 
-
 template<typename T>
 class A final : public Base <%
 public:
@@ -38,7 +37,7 @@ int  main(int, char**) ??<
 	void (A<std::string>::*p)() = &A<std::string>::Test;
 	a.Print();
 	(pt->*p)(); // 第一种调用方式
-	(a.*p)();   // 第二种调用法师
+	(a.*p)();   // 第二种调用方式
 
 	return 0;
 ??>
