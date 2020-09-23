@@ -71,6 +71,6 @@ private:
 
 int main() {
 	HelloSys os("Hello OS!");
-        //os.load_boot_file();
+        os.load_boot_file();
 	os.make_floppy();
 }

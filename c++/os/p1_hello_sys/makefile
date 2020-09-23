@@ -1,5 +1,5 @@
 CC=g++
-ASM=nasm
+NASM=nasm
 TARGET=os.img
 
 GEN_MAKE_OS=make_os
@@ -11,8 +11,8 @@ $TARGET : $GEN_MAKE_OS $GEN_BOOT
 $GEN_MAKE_OS : make_os.cc
 	$(CC) $< -o $(GEN_MAKE_OS)
 
-$GEN_BOOT : boot.asm
-	$(ASM) boot.asm
+$GEN_BOOT : boot.s
+	$(NASM) boot.s
 
 clean:
 	$(RM) $(GEN_MAKE_OS) $(GEN_BOOT) $(TARGET)
