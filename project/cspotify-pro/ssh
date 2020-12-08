@@ -1,0 +1,3 @@
+#! /bin/bash
+echo "pass: HAcjyy2599"
+ssh z5286488@vscode.cse.unsw.edu.au

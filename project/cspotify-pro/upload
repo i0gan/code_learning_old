@@ -1,0 +1,5 @@
+#! /bin/bash
+
+echo "pass: HAcjyy2599"
+scp src/cspotify.c src/test_cspotify.c z5286488@vscode.cse.unsw.edu.au:/import/kamen/2/z5286488/
+# HAcjyy2599
