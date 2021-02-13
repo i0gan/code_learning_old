@@ -14,7 +14,6 @@ _start:
 	mov ebx,1   ; write this to standard io output
 	mov eax,4   ; SYS_write
 	int 80h     ; syscall
-
 	mov ebx,0 ; return value
 	mov eax,1 ; SYS_exit
 	int 80h   ; syscall
