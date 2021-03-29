@@ -1,0 +1,5 @@
+PROJECT(HELLO)
+include_directories(~/booststart)
+link_directories(/lib)
+add_executable(hello main.cpp)
+target_link_libraries(hello libboost_thread.so libboost_system.so libpthread.so)

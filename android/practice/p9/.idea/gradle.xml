@@ -9,8 +9,8 @@
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="modules">
           <set>
-            <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/app" />
+            <option value="/run/media/i0gan/disk2/github/mpr/android/practice/p9" />
+            <option value="/run/media/i0gan/disk2/github/mpr/android/practice/p9/app" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
